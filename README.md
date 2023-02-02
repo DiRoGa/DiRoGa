@@ -4,18 +4,15 @@
     <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/krLpsEwqoU5RyRf8NM/giphy.gif">
     <img src="https://media.giphy.com/media/krLpsEwqoU5RyRf8NM/giphy.gif" width="100"/>
   </picture>
-  <h1>·:*¨ DiRoGa ¨*:·
   <div>
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/> 
-    <h4>Software Developer (in progress)</h4>
+    <h1>·:*¨ DiRoGa ¨*:·</h1>
+    <h3>Software Developer (in progress)</h3>
     <h6>28% ██░░░░░░░░</h6>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=plastic&color=red&label=PROFILE+VIEWS" alt=""/> 
   </div>
-  </h1>
 </div>
 
 <div id="body">
-  <br></br>
-
   <div align="center">
     <h2>Who am I?</h2>
     <p>My name is Diego, and right now im studying to become a Software Developer. I'm always ready to learn about new programming lenguages and technologies, and try to stay up to date with the latest technological ressurces.</p>
