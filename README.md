@@ -15,7 +15,7 @@
 <div id="body">
   <div align="center">
     <h2>Who am I?</h2>
-    <p>My name is Diego, and right now I'm studying to become a Software Engineer. I'm always ready to learn about new programming lenguages and technologies, and try to stay up to date with the latest technological ressurces.</p>
+    <p>My name is Diego, and right now I'm studying to become a Software Engineer. I'm always ready to learn about new programming lenguages and technologies, and try to stay up to date with the latest technological ressources.</p>
   </div>
   
   <br></br>
