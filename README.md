@@ -7,7 +7,7 @@
   <div>
     <h1>·:*¨ DiRoGa ¨*:·</h1>
     <h3>Software Engineer (in progress)</h3>
-    <h6>28% ██░░░░░░░░</h6>
+    <h6>40% ████░░░░░</h6>
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=plastic&color=red&label=PROFILE+VIEWS" alt=""/> 
   </div>
 </div>
@@ -15,7 +15,7 @@
 <div id="body">
   <div align="center">
     <h2>Who am I?</h2>
-    <p>My name is Diego, and right now I'm studying to become a Software Engineer. I'm always ready to learn about new programming lenguages and technologies, and try to stay up to date with the latest technological ressources.</p>
+    <p>My name is Diego, and I'm studying Software Engineering at Rey Juan Carlos University. I'm always eager to learn about new programming lenguages and technologies, and try to stay up to date with the latest technological resources.</p>
   </div>
   
   <br></br>
