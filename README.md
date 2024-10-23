@@ -7,7 +7,7 @@
   <div>
     <h1>·:*¨ DiRoGa ¨*:·</h1>
     <h3>Software Engineer (in progress)</h3>
-    <h6>40% ████░░░░░</h6>
+    <h6>50% ███░░░</h6>
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=plastic&color=red&label=PROFILE+VIEWS" alt=""/> 
   </div>
 </div>
