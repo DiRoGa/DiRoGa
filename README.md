@@ -20,7 +20,7 @@
   
   <br></br>
   
-/*  <div align="center">
+  <!-- <div align="center">
     <h2>Programming Lenguages</h2>
     <p>Along my journey as a Software Development student, I've been able to learn and understand how to develop <br>different types of apps in a variety of programming lenguages. As such, I've gained experience in different coding areas, such as:</br>
     </p>
@@ -71,5 +71,5 @@
       </tr>
     </tbody>
     </table>
-  </div>
-</div> */
+  </div> -->
+</div> 
